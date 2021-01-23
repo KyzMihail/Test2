@@ -6,5 +6,7 @@ public class Main {
 	System.out.println("Hello world");
 	System.out.println("Second Commit");
 	System.out.println("Changes on IDE Intellij Idea");
+
+	System.out.println("Changes on GitHub");
     }
 }
